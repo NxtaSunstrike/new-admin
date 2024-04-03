@@ -9,7 +9,7 @@ function autosize(){
   this.style.height = this.scrollHeight - 20 + 'px';
 }
 
-// check nonable placeholder and input after set display block for button
+
 
 const button = document.querySelector('.upload-btn');
 
